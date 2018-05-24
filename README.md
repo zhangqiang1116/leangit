@@ -1,0 +1,2 @@
+# leangit
+learn only
